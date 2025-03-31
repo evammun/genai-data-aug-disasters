@@ -1,6 +1,9 @@
-# Synthetic Data Augmentation with Stable Diffusion for the MEDIC Dataset
+# Improving Image Classification in Crisis Informatics Through Modern Generative Approaches
 
-This repository demonstrates how to augment a multi-task image classification dataset ([MEDIC](https://crisisnlp.qcri.org/medic/)) using synthetic images created with generative AI models (diffusion models), with the ultimate goal of improving CNN performance under class imbalance. Due to ethical constraints, we **do not include** the original disaster images or the generated synthetic images in this repository. Please see the note below on how to obtain them.
+This repository demonstrates how to augment a multi-task image classification dataset ([MEDIC](https://crisisnlp.qcri.org/medic/)) using synthetic images created with generative AI models (diffusion models), with the ultimate goal of improving CNN performance under class imbalance in crisis informatics. 
+We also demonstrate the impressive zero-shot capabilities for disaster image classification of large multimodal models, such as OpenAI's [GPT-4o](https://openai.com/index/hello-gpt-4o/).
+
+Due to ethical constraints, we **do not include** the original disaster images or the generated synthetic images in this repository. Please see the note below on how to obtain them.
 
 ---
 
@@ -18,7 +21,9 @@ This repository demonstrates how to augment a multi-task image classification da
 
 ## Overview
 
-This codebase explores the use of **Stable Diffusion** (and related diffusion models) to generate synthetic images for the [MEDIC dataset](https://paperswithcode.com/dataset/medic) (Alam et al., 2023). The primary aim is to address class imbalance in disaster‐related imagery by supplementing underrepresented categories with newly generated images. We follow a systematic pipeline:
+This codebase explores the use of **Stable Diffusion** (and related diffusion models) to generate synthetic images for the [MEDIC dataset](https://paperswithcode.com/dataset/medic) (Alam et al., 2023). The primary aim is to address class imbalance in disaster‐related imagery by supplementing underrepresented categories with newly generated images. We also demonstrate how off-the-shelf large language models with vision capabilities (e.g., GPT-4o) can achieve excellent zero-shot classification performance on the same tasks.
+
+We follow a systematic pipeline:
 
 - Experiment 1:
   - **Zero-Shot Classification**
