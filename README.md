@@ -138,7 +138,7 @@ pip install numpy torch nvidia-dali pandas matplotlib seaborn scikit-learn scipy
 
 ### License
 
-Code in this project is released under the terms of the MIT License.
+Code in this project is released under the terms of the [MIT License](https://github.com/evammun/genai-data-aug-disasters/blob/main/LICENSE).
 
 ### Contact
 
