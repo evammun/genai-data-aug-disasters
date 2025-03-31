@@ -96,18 +96,18 @@ TASKS = ["damage_severity", "informative", "humanitarian", "disaster_types"]
 # -----------------------------
 # API KEYS
 # -----------------------------
-OPENAI_KEY = "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"
-ANTHROPIC_KEY = "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"
+OPENAI_KEY = ""
+ANTHROPIC_KEY = ""
 ANTHROPIC_MODEL = "claude-3-7-sonnet-20250219"
 OPENAI_MODEL = "gpt-4o-2024-08-06"
-MISTRAL_KEY = "TOnw8DKgKRriFMgMtYo03o8MCFkjAYhF"
+MISTRAL_KEY = ""
 
 
 # Stable Diffusion key and model:
-STABLE_DIFFUSION_KEY = "sk-JSL90ikegQnEyslpZoDt7EQPg71dgKH2EPvAEn4DYGDkBtsP"
+STABLE_DIFFUSION_KEY = ""
 STABLE_DIFFUSION_MODEL = "stable-diffusion-v1-6"
 
-BLACK_FOREST_KEY = "e091966f-19cc-4cbd-9abb-d483130d87d7"
+BLACK_FOREST_KEY = ""
 
 # -----------------------------
 # VISION MODELS
