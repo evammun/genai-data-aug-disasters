@@ -11,7 +11,8 @@ This repository demonstrates how to augment a multi-task image classification da
 3. [Running the Experiments](#running-the-experiments)
 4. [Datasets and Ethical Constraints](#datasets-and-ethical-constraints)
 5. [Dependencies](#dependencies)
-6. [Contact](#contact)
+6. [License](#license)
+7. [Contact](#contact)
 
 ---
 
@@ -136,11 +137,13 @@ pip install numpy torch nvidia-dali pandas matplotlib seaborn scikit-learn scipy
 
 ---
 
-### License
+## License
 
 Code in this project is released under the terms of the [MIT License](https://github.com/evammun/genai-data-aug-disasters/blob/main/LICENSE).
 
-### Contact
+---
+
+## Contact
 
 If you have any questions or wish to obtain the synthetic images, please reach out via email at `evammun 📧 gmail.com`.
 In the latter case, make sure to provide details about your intended use, and be prepared to sign an agreement not to redistribute the images.
