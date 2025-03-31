@@ -1,0 +1,12 @@
+{
+  "timestamp": "2025-03-24 16:55:13.380083",
+  "diffusion_models": [
+    "final"
+  ],
+  "llm_types": [
+    "claude"
+  ],
+  "sample_size": null,
+  "head_only": null,
+  "rows_in_results": 242
+}

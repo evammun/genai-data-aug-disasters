@@ -1,0 +1,4 @@
+diffusion_model,prompt_key,source_type,llm_model,total_images,missing_images,failure_rate
+final,,all,all,242,242,100.0
+final,all,unknown,all,242,242,100.0
+final,all,all,unknown,242,242,100.0

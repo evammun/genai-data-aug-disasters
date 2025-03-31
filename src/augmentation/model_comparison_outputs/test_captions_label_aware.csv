@@ -1,0 +1,292 @@
+"image_path"	"damage_severity"	"informative"	"humanitarian"	"disaster_types"	"llm_output"	"caption_text"	"source_type"	"fallback_keys"	"is_failure"	"model_name"	"failure_reason"	"used_fallback"	"aug_img_path"
+"data/ASONAM17_Damage_Image_Dataset/nepal_eq/nepal_eq_none_im_20116.jpg"	"little_or_none"	"not_informative"	"infrastructure_and_utility_damage"	"earthquake"	"<analysis>
+IMAGE TYPE: Photograph
+COMPOSITION: Close-up, frontal view of a person holding a newspaper
+
+VISIBLE ELEMENTS:
+- A person wearing an orange/yellow robe or garment
+- The person is holding up what appears to be a newspaper with text in what looks like Devanagari script
+- The newspaper contains what appears to be a black and white photograph showing some kind of landscape or structure
+- There is a wooden interior visible in the background
+- Blue material or signage visible in the background
+- No visible damage to the immediate surroundings where the photo was taken
+- The newspaper may be showing disaster-related content, but the actual disaster is not directly visible in the main photograph
+
+SPATIAL RELATIONSHIPS:
+- The person is in the foreground, holding the newspaper out toward the camera
+- The newspaper occupies the central portion of the image
+- Wooden structural elements and blue background materials are visible behind the person
+- The setting appears to be some kind of indoor space with wooden elements
+</analysis>
+
+<caption>
+Close-up photograph of a person in an orange-yellow robe holding a newspaper with Devanagari script. The newspaper displays a black and white image that may show infrastructure damage. The setting is an indoor space with wooden walls and blue signage in the background. This is documentation of disaster reporting rather than direct disaster evidence.
+</caption>"	"Close-up photograph of a person in an orange-yellow robe holding a newspaper with Devanagari script. The newspaper displays a black and white image that may show infrastructure damage. The setting is an indoor space with wooden walls and blue signage in the background. This is documentation of disaster reporting rather than direct disaster evidence."	"real"	""	"FALSE"	"claude-3-7-sonnet-20250219"	""	"False"	"/home/evammun/Thesis/Dataset/data/synthetic/bfai/bfimg_0.png"
+"hypothetical"	"little_or_none"	"not_informative"	"infrastructure_and_utility_damage"	"earthquake"	"<analysis>
+CONTENT TYPE DETERMINATION:
+- For ""not_informative"" + ""earthquake"" + ""little_or_none"" + ""infrastructure_and_utility_damage"": I'll create a poorly composed or unclear image related to infrastructure that doesn't effectively communicate earthquake impact.
+
+CAMERA & COMPOSITION:
+- Camera angle: High angle (as per inspiration keyword)
+- Distance: Wide shot
+- Time of day: Night (as per inspiration keyword)
+
+SETTING ELEMENTS:
+- Location type: Western urban setting (using ""West"" inspiration keyword)
+- Weather conditions: Clear night sky
+- First diversity keyword starting with C: Concrete
+- Second diversity keyword starting with C: Cables
+
+DISASTER VISUAL SIGNATURES:
+- For earthquake with little/no damage, I'll include:
+  * Very minor cracks in pavement
+  * Slight tilting of a utility pole
+  * Small debris pieces scattered sparsely
+  * Normal functioning streetlights
+
+DAMAGE VISUALIZATION (little_or_none):
+- Intact utility poles with minimal tilting
+- Unbroken power lines
+- Intact concrete structures with only hairline cracks
+- Fully functional streetlights
+- No significant structural displacement
+
+HUMANITARIAN REPRESENTATION (infrastructure_and_utility_damage):
+- Focus on utility infrastructure without human subjects
+- Show power lines and utility poles
+- Include electrical transformer station
+- No emergency responders or affected people
+
+FOREGROUND & BACKGROUND:
+- Foreground: Dark asphalt street, concrete sidewalk, metal utility pole, black electrical cables
+- Background: City skyline, street lights, concrete buildings, distant mountains
+- Spatial relationship: Utility infrastructure in foreground with urban setting in background
+
+FOR NON-INFORMATIVE ASPECT:
+- Poor lighting conditions making details hard to discern
+- Awkward framing that cuts off key infrastructure elements
+- Distant perspective that fails to highlight any notable damage
+- Blurry or obscured view of potential damage areas
+</analysis>
+
+<caption>
+High angle night shot of Western urban street with intact utility infrastructure. Minor hairline cracks in concrete sidewalk, slightly tilted power pole with undamaged cables. Functioning streetlights illuminate undisturbed electrical transformer station. No visible structural damage or emergency response.
+</caption>"	"High angle night shot of Western urban street with intact utility infrastructure. Minor hairline cracks in concrete sidewalk, slightly tilted power pole with undamaged cables. Functioning streetlights illuminate undisturbed electrical transformer station. No visible structural damage or emergency response."	"hypothetical"	""	"FALSE"	"claude-3-7-sonnet-20250219"	""	"False"	"/home/evammun/Thesis/Dataset/data/synthetic/bfai/bfimg_2.png"
+"hypothetical"	"little_or_none"	"not_informative"	"infrastructure_and_utility_damage"	"earthquake"	"<analysis>
+CONTENT TYPE DETERMINATION:
+- This is labeled ""not_informative"" - I'll create a non-disaster informational content like an infographic or diagram related to earthquake infrastructure damage but that doesn't show actual disaster imagery
+
+CAMERA & COMPOSITION:
+- Not applicable for infographic/diagram content
+
+SETTING ELEMENTS:
+- Not applicable for infographic/diagram content
+
+DISASTER VISUAL SIGNATURES:
+- Since this is ""not_informative,"" I won't include actual disaster imagery
+- Will focus on educational/informational content about earthquake effects on infrastructure
+
+DAMAGE VISUALIZATION:
+- Damage level is ""little_or_none"" - if showing infrastructure in diagram form, will show intact or only slightly affected infrastructure
+
+HUMANITARIAN REPRESENTATION:
+- Category is ""infrastructure_and_utility_damage"" - will focus on utility systems or infrastructure elements in diagram/infographic form
+- No human subjects needed
+
+FOR NON-DISASTER/NON-INFORMATIVE CONTENT:
+- Media format: Infographic or diagram
+- Content elements: 
+  * Educational diagram showing earthquake-resistant infrastructure
+  * Technical illustration of utility systems with minimal earthquake impact
+  * Possibly a map showing earthquake zones with intact infrastructure
+  * Dawn lighting and eastern region reference
+  * Will include ""Observatory"" and ""Operation"" as the two O-words
+  * Ground level perspective in any illustrations included
+
+This will be a technical diagram or infographic about earthquake-resistant infrastructure or utilities, viewed from ground level at dawn in an eastern region, incorporating an observatory and operation center elements.
+</analysis>
+
+<caption>
+Infographic diagram showing earthquake-resistant utility systems at ground level. Technical cross-section of power lines and Observatory Operations Center in eastern region at dawn. Blue grid overlay with measurement scales. Orange and gray infrastructure elements remain intact with minimal stress indicators.
+</caption>"	"Infographic diagram showing earthquake-resistant utility systems at ground level. Technical cross-section of power lines and Observatory Operations Center in eastern region at dawn. Blue grid overlay with measurement scales. Orange and gray infrastructure elements remain intact with minimal stress indicators."	"hypothetical"	""	"FALSE"	"claude-3-7-sonnet-20250219"	""	"False"	"/home/evammun/Thesis/Dataset/data/synthetic/bfai/bfimg_4.png"
+"hypothetical"	"little_or_none"	"not_informative"	"infrastructure_and_utility_damage"	"earthquake"	"<analysis>
+CONTENT TYPE DETERMINATION:
+- This is labeled as ""not_informative"" - I should create content like an infographic, map, diagram, or social media post related to earthquakes with little/none damage and infrastructure/utility damage.
+
+Since this is a ""not_informative"" image about an earthquake with ""little_or_none"" damage focusing on ""infrastructure_and_utility_damage"", I'll design an educational infographic or diagram about earthquake impacts on infrastructure rather than an actual disaster scene.
+
+MEDIA FORMAT:
+- An infographic or educational diagram showing earthquake effects on infrastructure with minimal damage
+
+CONTENT ELEMENTS:
+- Technical diagram of utility lines with minimal earthquake damage
+- Cross-section illustration of infrastructure with earthquake-resistant features
+- Educational labels and callouts explaining earthquake-resistant infrastructure
+- Color-coded system showing different types of infrastructure and their earthquake resilience
+- Include sunrise colors (as per inspiration keyword) in the background or design elements
+- Northern hemisphere location reference in the content
+- Include the words ""Construction"" and ""Cables"" (two distinct words starting with C)
+- Ground level perspective incorporated in one section of the diagram
+
+The image will be informational/educational rather than showing an actual earthquake disaster scene, which aligns with the ""not_informative"" label while still relating to the topic of earthquakes, infrastructure damage, and minimal severity.
+</analysis>
+
+<caption>
+Educational infographic about earthquake-resistant infrastructure design at sunrise. Cross-sectional diagram showing underground Cables and Construction techniques with minimal stress fractures. Northern hemisphere building codes illustrated with color-coded utility systems from ground level perspective. Technical rather than actual disaster documentation.
+</caption>"	"Educational infographic about earthquake-resistant infrastructure design at sunrise. Cross-sectional diagram showing underground Cables and Construction techniques with minimal stress fractures. Northern hemisphere building codes illustrated with color-coded utility systems from ground level perspective. Technical rather than actual disaster documentation."	"hypothetical"	""	"FALSE"	"claude-3-7-sonnet-20250219"	""	"False"	"/home/evammun/Thesis/Dataset/data/synthetic/bfai/bfimg_6.png"
+"hypothetical"	"little_or_none"	"not_informative"	"infrastructure_and_utility_damage"	"earthquake"	"<analysis>
+CONTENT TYPE DETERMINATION:
+- This is labeled as ""not_informative"" which means I should create content like an infographic, map, diagram, social media post, or news article related to earthquakes and infrastructure damage.
+
+Given the combination of:
+- Disaster Type: earthquake
+- Damage Severity: little_or_none
+- Humanitarian Category: infrastructure_and_utility_damage
+- Informativeness: not_informative
+
+I'll create a social media post or infographic about earthquake preparedness or assessment that shows infrastructure with little or no damage.
+
+CAMERA & COMPOSITION:
+- Not applicable for infographic/social media content
+
+SETTING ELEMENTS:
+- Not directly applicable, but I'll incorporate elements related to infrastructure assessment after earthquakes
+
+DISASTER VISUAL SIGNATURES:
+- Not applicable for infographic/social media content
+
+DAMAGE VISUALIZATION:
+- Will show infrastructure with little to no damage in a diagram or infographic format
+
+HUMANITARIAN REPRESENTATION:
+- Will focus on infrastructure and utility systems without human subjects
+
+FOR NON-DISASTER/NON-INFORMATIVE CONTENT:
+- Media format: Infographic or social media post
+- Content elements: Diagram of building assessment after minor earthquake, utility inspection protocols, ""No Damage"" assessment criteria
+- Will incorporate ""Early hours"" to suggest post-earthquake inspection timing
+- Will incorporate ""Southern hemisphere"" as a geographical reference
+- Will include two distinct words starting with ""N"": ""Normal"" and ""Network""
+- Will reference ""Ground level"" inspection protocols
+</analysis>
+
+<caption>
+Infographic titled ""Normal Earthquake Assessment Protocol"" showing utility Network inspection checklist with green checkmarks. Diagram of building with minimal hairline cracks at ground level. Southern hemisphere inspection guidelines for early hours assessment. Clean, undamaged infrastructure with technical measurement scales.
+</caption>"	"Infographic titled ""Normal Earthquake Assessment Protocol"" showing utility Network inspection checklist with green checkmarks. Diagram of building with minimal hairline cracks at ground level. Southern hemisphere inspection guidelines for early hours assessment. Clean, undamaged infrastructure with technical measurement scales."	"hypothetical"	""	"FALSE"	"claude-3-7-sonnet-20250219"	""	"False"	"/home/evammun/Thesis/Dataset/data/synthetic/bfai/bfimg_8.png"
+"hypothetical"	"little_or_none"	"not_informative"	"infrastructure_and_utility_damage"	"earthquake"	"<analysis>
+CONTENT TYPE DETERMINATION:
+- This is labeled as ""not_informative"" which means I should create an infographic, map, diagram, social media post, or news article related to earthquakes with little or no damage to infrastructure and utilities.
+
+Given the labels:
+- Disaster Type: earthquake
+- Damage Severity: little_or_none
+- Humanitarian Category: infrastructure_and_utility_damage
+- Informativeness: not_informative
+
+I'll design an infographic or educational social media post about earthquake effects on infrastructure when damage is minimal, rather than an actual disaster scene.
+
+FOR NON-DISASTER/NON-INFORMATIVE CONTENT:
+- Media format: Infographic/educational social media post
+- Content elements: 
+  * Diagram of earthquake-resistant infrastructure
+  * Technical illustrations of utility systems with minimal earthquake impact
+  * Text explaining earthquake preparedness
+  * Color-coded visual elements showing infrastructure integrity
+  * Educational content about earthquake monitoring
+
+INSPIRATION KEYWORDS INTEGRATION:
+- Midnight: Will incorporate dark blue/black color scheme typical of nighttime infographics
+- East: Will reference Eastern architectural/engineering approaches to earthquake resistance
+- E words: ""Engineering"" and ""Earthquake-resistant"" will be featured prominently
+- Panoramic view: Will include a wide horizontal layout typical of educational infographics
+</analysis>
+
+<caption>
+Infographic titled ""Engineering Earthquake-resistant Infrastructure"" with midnight blue background showing panoramic view of utility systems with minimal seismic impact. Features Eastern architectural techniques, cross-sectional diagrams of flexible pipe connections, and reinforced power line poles. Color-coded technical illustrations demonstrate how modern infrastructure withstands minor tremors.
+</caption>"	"Infographic titled ""Engineering Earthquake-resistant Infrastructure"" with midnight blue background showing panoramic view of utility systems with minimal seismic impact. Features Eastern architectural techniques, cross-sectional diagrams of flexible pipe connections, and reinforced power line poles. Color-coded technical illustrations demonstrate how modern infrastructure withstands minor tremors."	"hypothetical"	""	"FALSE"	"claude-3-7-sonnet-20250219"	""	"False"	"/home/evammun/Thesis/Dataset/data/synthetic/bfai/bfimg_3.png"
+"data/ASONAM17_Damage_Image_Dataset/nepal_eq/nepal_eq_none_im_27929.jpg"	"little_or_none"	"not_informative"	"infrastructure_and_utility_damage"	"earthquake"	"<analysis>
+IMAGE TYPE: Aerial photograph
+COMPOSITION: Overhead aerial view, wide-angle perspective showing a rural/semi-urban landscape
+VISIBLE ELEMENTS:
+- A patchwork of agricultural fields with grid-like patterns
+- Clusters of buildings/structures appearing as white dots scattered throughout
+- A denser concentration of structures on the right side (likely a settlement area)
+- No visible damage to structures or infrastructure
+- No visible people at this altitude
+- No signs of earthquake damage, collapsed buildings, or infrastructure disruption
+- Roads or pathways cutting through the landscape
+- One larger white structure visible in the upper left corner
+
+SPATIAL RELATIONSHIPS:
+- Foreground shows agricultural fields with geometric patterns
+- Background contains more densely populated area (right side)
+- A diagonal road or path appears to run through the center of the image
+- Agricultural plots of varying sizes spread across most of the image
+- Settlement areas are interspersed between agricultural zones
+</analysis>
+
+<caption>
+Aerial black and white satellite image of rural settlement showing intact agricultural fields in geometric patterns with scattered white structures. A diagonal road traverses the landscape connecting residential clusters. Denser building concentration appears on the right side. No visible infrastructure damage or humanitarian crisis indicators present.
+</caption>"	"Aerial black and white satellite image of rural settlement showing intact agricultural fields in geometric patterns with scattered white structures. A diagonal road traverses the landscape connecting residential clusters. Denser building concentration appears on the right side. No visible infrastructure damage or humanitarian crisis indicators present."	"real"	""	"FALSE"	"claude-3-7-sonnet-20250219"	""	"False"	"/home/evammun/Thesis/Dataset/data/synthetic/bfai/bfimg_1.png"
+"hypothetical"	"little_or_none"	"not_informative"	"infrastructure_and_utility_damage"	"earthquake"	"<analysis>
+CONTENT TYPE DETERMINATION:
+- Label is ""not_informative"" so I should create an infographic, map, diagram, social media post, or news article related to earthquake with little/none damage showing infrastructure/utility damage.
+
+Given the ""not_informative"" label combined with ""little_or_none"" damage severity and ""infrastructure_and_utility_damage"" category, I'll create a social media post that shows earthquake-related infrastructure information but doesn't show actual disaster imagery. This aligns with being ""not_informative"" about a real disaster event.
+
+FOR NON-DISASTER/NON-INFORMATIVE CONTENT:
+- Media format: Social media post
+- Content elements: Infographic about earthquake safety measures for infrastructure protection, showing intact utility systems with minimal visual indicators of an earthquake
+</analysis>
+
+<caption>
+Social media post showing earthquake safety infographic with statistics and safety recommendations for utility systems. Sunrise lighting illuminates a wide-angle diagram of stable power lines and structural supports against an eastern cityscape. Text overlay explains seismic retrofitting techniques for infrastructure protection.
+</caption>"	"Social media post showing earthquake safety infographic with statistics and safety recommendations for utility systems. Sunrise lighting illuminates a wide-angle diagram of stable power lines and structural supports against an eastern cityscape. Text overlay explains seismic retrofitting techniques for infrastructure protection."	"hypothetical"	""	"FALSE"	"claude-3-7-sonnet-20250219"	""	"False"	"/home/evammun/Thesis/Dataset/data/synthetic/bfai/bfimg_7.png"
+"hypothetical"	"little_or_none"	"not_informative"	"infrastructure_and_utility_damage"	"earthquake"	"<analysis>
+CONTENT TYPE DETERMINATION:
+- This is labeled as ""not_informative"" for an earthquake with ""little_or_none"" damage severity in the ""infrastructure_and_utility_damage"" category
+- For not_informative content, I should create an infographic, map, diagram, or social media post related to earthquakes and infrastructure
+
+Since this is NOT_INFORMATIVE but relates to earthquake infrastructure damage, I'll design a technical diagram or infographic about earthquake impacts on infrastructure rather than an actual disaster scene.
+
+MEDIA FORMAT:
+- An infographic or technical diagram showing utility infrastructure with minimal earthquake effects
+- The image should be informational rather than showing an actual disaster scene
+- Since it's ""not_informative"" about a real disaster, it should be educational/illustrative in nature
+
+CONTENT ELEMENTS:
+- Technical diagram of utility infrastructure (power lines, water pipes, etc.)
+- Annotations or labels showing potential earthquake impact points
+- Minimal or no actual damage shown (matching ""little_or_none"" severity)
+- Technical, educational presentation style
+- Incorporation of keywords: Midday lighting in diagram, Northern hemisphere location reference, ""Observatory"" and ""Operations"" as the O-words, tilted angle view of the infrastructure
+
+This should result in an infographic or diagram about earthquake effects on infrastructure rather than an actual earthquake scene, making it ""not_informative"" about a real disaster while still relating to the specified categories.
+</analysis>
+
+<caption>
+Technical infographic titled ""Observatory Monitoring Operations: Earthquake Impact Assessment"" showing utility infrastructure with minimal seismic effects. Tilted diagram of power lines and water pipes at midday lighting, with Northern hemisphere building codes annotated. Small hairline cracks visible on concrete supports. Educational rather than documentary in nature.
+</caption>"	"Technical infographic titled ""Observatory Monitoring Operations: Earthquake Impact Assessment"" showing utility infrastructure with minimal seismic effects. Tilted diagram of power lines and water pipes at midday lighting, with Northern hemisphere building codes annotated. Small hairline cracks visible on concrete supports. Educational rather than documentary in nature."	"hypothetical"	""	"FALSE"	"claude-3-7-sonnet-20250219"	""	"False"	"/home/evammun/Thesis/Dataset/data/synthetic/bfai/bfimg_9.png"
+"hypothetical"	"little_or_none"	"not_informative"	"infrastructure_and_utility_damage"	"earthquake"	"<analysis>
+CONTENT TYPE DETERMINATION:
+- This is labeled as ""not_informative"" which means I should create an infographic, map, diagram, social media post, or news article related to earthquakes with little or no damage to infrastructure and utility systems.
+
+Since this is NOT_INFORMATIVE content about an EARTHQUAKE with LITTLE_OR_NONE damage severity focused on INFRASTRUCTURE_AND_UTILITY_DAMAGE, I'll create a technical diagram or infographic about earthquake monitoring equipment or utility systems with minimal damage indicators.
+
+FOR NON-DISASTER/NON-INFORMATIVE CONTENT:
+- Media format: Technical diagram or infographic
+- Content elements: Earthquake monitoring equipment, utility infrastructure with minimal damage indicators, technical specifications, analytical data
+
+The image should show information ABOUT earthquakes and infrastructure rather than an actual earthquake scene. Since it's not informative for disaster response purposes, it would be appropriate to create something like a technical diagram showing earthquake monitoring systems, or an infographic about how utilities are designed to withstand earthquakes.
+
+Incorporating diversity keywords:
+- ""Early hours"" - Can be referenced in the time stamp of the diagram
+- ""Northern hemisphere"" - Can be shown in location markers
+- Words starting with A: ""Analysis"" and ""Assessment"" can be included in the text elements
+
+Distance shot: The diagram can be shown from a distance perspective showing the full monitoring system or utility grid.
+</analysis>
+
+<caption>
+Technical diagram showing earthquake monitoring equipment installed along utility lines in the Northern hemisphere. Analysis readouts display minimal seismic activity recorded in the early hours. Assessment panel indicates intact power grid with superficial stress markers. Distance view of monitoring stations across mountainous terrain.
+</caption>"	"Technical diagram showing earthquake monitoring equipment installed along utility lines in the Northern hemisphere. Analysis readouts display minimal seismic activity recorded in the early hours. Assessment panel indicates intact power grid with superficial stress markers. Distance view of monitoring stations across mountainous terrain."	"hypothetical"	""	"FALSE"	"claude-3-7-sonnet-20250219"	""	"False"	"/home/evammun/Thesis/Dataset/data/synthetic/bfai/bfimg_5.png"

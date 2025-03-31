@@ -1,0 +1,11 @@
+{
+  "timestamp": "2025-03-18 14:45:38.681039",
+  "diffusion_model": "bfai",
+  "llm_types": [
+    "claude",
+    "gpt"
+  ],
+  "sample_size": null,
+  "head_only": 10,
+  "rows_in_results": 10
+}

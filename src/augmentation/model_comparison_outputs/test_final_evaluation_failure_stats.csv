@@ -1,0 +1,5 @@
+diffusion_model,source_type,prompt_key,llm_model,total_images,missing_images,failure_rate
+bfai,all,all,all,10,0,0.0
+bfai,real,all,all,7,0,0.0
+bfai,hypothetical,all,all,3,0,0.0
+bfai,all,all,claude-3-7-sonnet-latest,10,0,0.0
